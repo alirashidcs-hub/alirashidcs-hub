@@ -1,69 +1,81 @@
 # 👋 Hi, I'm Ali Rashid
 
-## 🎓 About Me
+## 💻 Computer Science Student | AI Enthusiast | Full-Stack Developer
 
-- 🎓 BS Computer Science Student at UET Taxila
-- 💻 Passionate about Software Development
-- 🤖 Learning Artificial Intelligence & Machine Learning
-- 🌱 Currently improving my Java, Python, C++, and Web Development skills
-- 🚀 Building projects to strengthen my programming and problem-solving abilities
+I'm a **BS Computer Science** student at **UET Taxila** with a strong passion for building modern web applications, exploring Artificial Intelligence, and solving real-world problems through software development.
+
+I enjoy learning new technologies, creating impactful projects, and continuously improving my programming and software engineering skills.
 
 ---
 
-## 💻 Technical Skills
+## 🚀 Currently
 
-### Programming Languages
-- C++
-- Java
-- Python
-- HTML
-
-### Concepts
-- Object-Oriented Programming (OOP)
-- Data Structures (Learning)
-- Problem Solving
-- Algorithms
-
-### Tools
-- Arduino UNO
-- Git & GitHub
-- Microsoft Office
+* 🌱 Learning **Artificial Intelligence**, **Machine Learning**, and **Full-Stack Development**
+* 💻 Building AI-powered web applications with modern technologies
+* 📚 Strengthening my knowledge of Data Structures, Algorithms, and Software Engineering
+* 🚀 Expanding my open-source portfolio on GitHub
 
 ---
 
-## 🚀 Featured Projects
+## 💻 Tech Stack
 
-- 🎮 Arcana Console Game Suite
-- 🛠 Chrono VeloSec Utility Suite
-- 🚦 Automatic Traffic Light System
-- 🚧 Arduino Barrier Bot UNO Gate System
-- 🛒 Electronics Store Website
+### Languages
+
+* Java
+* Python
+* C++
+* TypeScript
+* JavaScript
+* HTML
+* CSS
+
+### Frameworks & Libraries
+
+* React
+* Vite
+* Express.js
+* Tailwind CSS
+* Framer Motion
+
+### AI & Tools
+
+* Gemini API
+* Git & GitHub
+* Arduino UNO
+* Microsoft Office
+
+### Currently Learning
+
+* Machine Learning
+* Data Structures & Algorithms
+* Backend Development
+* Cloud Technologies
+
+---
+
+## 🌟 Featured Projects
+
+* 💰 **Finova AI** — AI-powered personal finance and wealth management platform
+* 🤖 **LifeHub AI** — AI productivity and personal assistant application
+* 🎥 ReelFlow — Modern short-video social media platform with video sharing, authentication, user profiles, and an engaging mobile-first experience
+* 🛠 **Chrono VeloSec Utility Suite** — Productivity utilities built in C++
+* 🎮 **Arcana Console Game Suite** — Collection of console-based games
+* 🚦 **Automatic Traffic Light System**
+* 🚧 **Arduino Barrier Bot UNO Gate System**
+* 🛒 **Electronics Store Website**
 
 ---
 
 ## 🎯 Career Goal
 
-My goal is to become a Software Engineer specializing in Java, Artificial Intelligence, and modern software development while continuously building impactful projects.
+My goal is to become a skilled **Software Engineer** specializing in **Artificial Intelligence**, **Full-Stack Development**, and modern software engineering by building innovative products and contributing to open-source projects.
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/ali-rashid-cs
+* 💼 LinkedIn: https://linkedin.com/in/ali-rashid-cs
 
-Thanks for visiting my profile!
+---
 
-<!--
-**alirashidcs-hub/alirashidcs-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Thank you for visiting my GitHub profile. Feel free to explore my repositories and connect with me!
