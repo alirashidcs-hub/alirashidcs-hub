@@ -55,6 +55,7 @@ I enjoy learning new technologies, creating impactful projects, and continuously
 
 ## 🌟 Featured Projects
 
+* 💪 **FitNova AI** — AI-powered fitness and wellness platform featuring an intelligent fitness coach, workout tracking, habit management, health analytics, and interactive dashboards.
 * 💰 **Finova AI** — AI-powered personal finance and wealth management platform with intelligent insights, budgeting tools, and interactive analytics.
 * 📚 **StudyFlow AI** — AI-powered study companion featuring smart note summarization, AI tutoring, quiz generation, and productivity tools for students.
 * 🎥 **ReelFlow** — Modern short-video social media platform with video sharing, authentication, user profiles, and a mobile-first user experience.
