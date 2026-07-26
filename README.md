@@ -55,6 +55,7 @@ I enjoy learning new technologies, creating impactful projects, and continuously
 
 ## 🌟 Featured Projects
 
+* 🎤 **InterviewAI** — AI-powered career readiness and interview coaching platform featuring AI mock interviews, ATS resume analysis, voice interaction, growth analytics, and personalized interview feedback powered by Google Gemini.
 * 💪 **FitNova AI** — AI-powered fitness and wellness platform featuring an intelligent fitness coach, workout tracking, habit management, health analytics, and interactive dashboards.
 * 💰 **Finova AI** — AI-powered personal finance and wealth management platform with intelligent insights, budgeting tools, and interactive analytics.
 * 📚 **StudyFlow AI** — AI-powered study companion featuring smart note summarization, AI tutoring, quiz generation, and productivity tools for students.
