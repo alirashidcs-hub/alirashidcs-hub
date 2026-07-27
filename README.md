@@ -36,10 +36,12 @@ I enjoy learning new technologies, creating impactful projects, and continuously
 * Express.js
 * Tailwind CSS
 * Framer Motion
+* Three.js
 
 ### AI & Tools
 
 * Google Gemini API
+* Google Drive API
 * Git & GitHub
 * Arduino UNO
 * Microsoft Office
@@ -55,6 +57,7 @@ I enjoy learning new technologies, creating impactful projects, and continuously
 
 ## 🌟 Featured Projects
 
+* 👗 **Aura Atelier** — AI-powered 3D virtual fitting room and haute couture styling platform featuring an interactive Three.js fitting studio, AI fashion recommendations, digital wardrobe management, Google Drive cloud integration, and immersive luxury styling experiences.
 * 🎤 **InterviewAI** — AI-powered career readiness and interview coaching platform featuring AI mock interviews, ATS resume analysis, voice interaction, growth analytics, and personalized interview feedback powered by Google Gemini.
 * 💪 **FitNova AI** — AI-powered fitness and wellness platform featuring an intelligent fitness coach, workout tracking, habit management, health analytics, and interactive dashboards.
 * 💰 **Finova AI** — AI-powered personal finance and wealth management platform with intelligent insights, budgeting tools, and interactive analytics.
@@ -63,9 +66,6 @@ I enjoy learning new technologies, creating impactful projects, and continuously
 * 🤖 **LifeHub AI** — AI-powered productivity and personal assistant application for task management and daily organization.
 * 🛠️ **Chrono VeloSec Utility Suite** — Productivity utilities built with C++.
 * 🎮 **Arcana Console Game Suite** — Collection of console-based games developed in C++.
-* 🚦 **Automatic Traffic Light System** — Digital Logic Design project for automated traffic signal control.
-* 🚧 **Arduino Barrier Bot UNO Gate System** — Arduino-based automated gate control system.
-* 🛒 **Electronics Store Website** — Responsive e-commerce website developed using HTML and CSS.
 
 ---
 
