@@ -59,6 +59,7 @@ I enjoy learning new technologies, creating impactful projects, and continuously
 
 * 🏡 **HomeVista 3D** — AI-powered 3D real estate platform featuring an interactive master plan, immersive property visualization, intelligent plot recommendations, real-time home customization, investment estimation, and Google Gemini AI integration.
 * 👗 **Aura Atelier** — AI-powered 3D virtual fitting room and haute couture styling platform featuring an interactive Three.js fitting studio, AI fashion recommendations, digital wardrobe management, Google Drive cloud integration, and immersive luxury styling experiences.
+* 🥗 **NutriAI Pakistan** — AI-powered nutrition and health management platform featuring personalized Pakistani meal plans, BMI & calorie calculators, nutrition analytics, grocery management, healthy recipes, AI nutrition assistance, and an integrated admin dashboard.
 * 🎤 **InterviewAI** — AI-powered career readiness and interview coaching platform featuring AI mock interviews, ATS resume analysis, voice interaction, growth analytics, and personalized interview feedback powered by Google Gemini.
 * 💪 **FitNova AI** — AI-powered fitness and wellness platform featuring an intelligent fitness coach, workout tracking, habit management, health analytics, and interactive dashboards.
 * 💰 **Finova AI** — AI-powered personal finance and wealth management platform with intelligent insights, budgeting tools, and interactive analytics.
