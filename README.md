@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ali Rashid
 
-### 💻 Computer Science Student | 🤖 AI Engineer (Aspiring) | 🚀 Full-Stack Developer
+### 💻 Computer Science Student | 🤖 AI Engineer  | 🚀 Full-Stack Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%7C+Full-Stack+Development;Building+Modern+AI-Powered+Applications;React+%7C+TypeScript+%7C+Node.js+%7C+Three.js;Always+Learning+%7C+Always+Building" />
 
