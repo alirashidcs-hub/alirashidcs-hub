@@ -29,16 +29,6 @@ I'm a <strong>BS Computer Science</strong> student at <strong>UET Taxila</strong
 
 ---
 
-# 🚀 About Me
-
-- 🎓 BS Computer Science Student at **University of Engineering & Technology (UET) Taxila**
-- 🤖 Passionate about Artificial Intelligence and Software Engineering
-- 💻 Full-Stack Web Developer
-- 🌐 Building AI-powered web applications
-- 🚀 Continuously learning modern technologies and expanding my open-source portfolio
-
----
-
 # 🌱 Currently Learning
 
 - Artificial Intelligence
