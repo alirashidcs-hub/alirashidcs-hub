@@ -1,31 +1,38 @@
-<div align="center">
-
 # 👋 Hi, I'm Ali Rashid
 
-### 💻 Computer Science Student | 🤖 AI Engineer  | 🚀 Full-Stack Developer
+### 💻 Computer Science Student | 🤖 AI Engineer | 🚀 Full-Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%7C+Full-Stack+Development;Building+Modern+AI-Powered+Applications;React+%7C+TypeScript+%7C+Node.js+%7C+Three.js;Always+Learning+%7C+Always+Building" />
-
-<p>
-I'm a <strong>BS Computer Science</strong> student at <strong>UET Taxila</strong> passionate about Artificial Intelligence, Full-Stack Development, and building real-world software solutions with modern technologies.
+<p align="left">
+  <a href="https://www.linkedin.com/in/ali-rashid-cs/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/alirashidcs-hub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://ali-rashid-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
-<p>
-<a href="mailto:ar2701699@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+---
 
-<a href="https://www.linkedin.com/in/ali-rashid-cs/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+## 👨‍💻 About Me
 
-<a href="https://github.com/alirashidcs-hub">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-</a>
+I'm a **Computer Science student at UET Taxila** passionate about building intelligent, modern, and user-focused software.
 
-</p>
+My primary interests include:
 
-</div>
+- 🤖 Artificial Intelligence & Generative AI
+- 🧠 AI Agents & LLM Applications
+- 🌐 Full-Stack Web Development
+- 🎨 3D Web Technologies
+- ⚙️ Software Engineering
+- ☁️ Cloud & Deployment
+- 🔐 Secure API Architecture
+
+I enjoy transforming ideas into practical applications that combine **AI, modern web technologies, and real-world problem solving**.
+
+> 🚀 Building intelligent software, one project at a time.
 
 ---
 
@@ -33,121 +40,292 @@ I'm a <strong>BS Computer Science</strong> student at <strong>UET Taxila</strong
 
 - Artificial Intelligence
 - Machine Learning
+- AI Agents & Agentic AI
+- LLM Application Development
+- MCP & Tool Calling
 - Data Structures & Algorithms
-- Backend Development
+- Backend Architecture
 - Cloud Technologies
-- Advanced React Ecosystem
+- Advanced React & Next.js
+- Database Design
+- Production AI Architecture
 
 ---
 
-# 💻 Tech Stack
+# 🛠️ Tech Stack
 
-## Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,ts,js,html,css" />
-</p>
-
-## Frameworks & Libraries
+## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,tailwind" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### AI & Tools
+## 🌐 Frontend
 
-- Google Gemini API
-- Google Drive API
-- Three.js
-- Framer Motion
-- Git & GitHub
-- VS Code
-- Arduino UNO
-- Microsoft Office
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+## ⚙️ Backend & Database
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+## 🤖 AI & Agent Technologies
+
+<p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge"/>
+</p>
+
+## 🎨 3D & Creative Technologies
+
+<p>
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+</p>
+
+## 🧰 Tools & DevOps
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
 
 ---
 
 # 🌟 Featured Projects
 
+## 🤖 AI Agent Hub
+
+### Full-Stack AI Agent Builder & Deployment Platform
+
+A production-oriented platform designed to help developers **create, configure, test, deploy, and manage AI agents from one centralized workspace.**
+
+### ✨ Key Features
+
+- 🧩 Visual AI Agent Builder
+- 🔗 Node-based agent workflows
+- 🤖 Multi-model architecture
+- 🧠 OpenAI, Claude & Gemini support
+- 🔌 Tool Calling & MCP integration
+- 🧠 Agent memory & context
+- 🧪 Prompt playground
+- 🔐 Authentication & API key management
+- 📊 Agent execution & run logs
+- 🚀 Public deployment endpoints
+- 🛡️ Request validation & security controls
+- 🗄️ PostgreSQL + Prisma
+- ⚡ Redis integration
+- 🐳 Docker-ready architecture
+
+### 🛠️ Tech Stack
+
+`Next.js` `React` `TypeScript` `LangGraph` `Prisma` `PostgreSQL` `Redis` `Docker`
+
+> 🚀 AI Agent Hub is being prepared for deployment.
+
+---
+
 ## 🏡 HomeVista 3D
-**AI-powered 3D real estate platform** featuring an interactive master plan, immersive property visualization, intelligent plot recommendations, real-time home customization, investment estimation, and Google Gemini AI integration.
+
+### AI-Powered 3D Real Estate Platform
+
+An immersive real-estate platform combining interactive 3D visualization with AI-powered property recommendations.
+
+**Features:**
+
+- 🏘️ Interactive 3D master plan
+- 🏠 Immersive property visualization
+- 🤖 AI plot recommendations
+- 🎨 Real-time home customization
+- 💰 Investment estimation
+- 🧠 Google Gemini integration
+
+**Tech:** `React` `Three.js` `Gemini AI`
 
 ---
 
 ## 👗 Aura Atelier
-**AI-powered 3D virtual fitting room** and haute couture styling platform featuring an interactive Three.js fitting studio, AI fashion recommendations, digital wardrobe management, Google Drive cloud integration, and immersive luxury styling experiences.
+
+### AI-Powered 3D Virtual Fitting & Fashion Platform
+
+A luxury fashion platform combining AI styling with immersive 3D experiences.
+
+**Features:**
+
+- 👗 Interactive Three.js fitting studio
+- 🤖 AI fashion recommendations
+- 🧥 Digital wardrobe
+- ☁️ Google Drive integration
+- 🎨 Interactive styling experience
+
+**Tech:** `React` `Three.js` `Gemini AI` `Google Drive API`
 
 ---
 
 ## 🥗 NutriAI Pakistan
-**AI-powered nutrition and health management platform** featuring personalized Pakistani meal plans, BMI & calorie calculators, nutrition analytics, grocery management, healthy recipes, AI nutrition assistance, and an integrated admin dashboard.
+
+### AI-Powered Nutrition & Wellness Platform
+
+A nutrition management platform focused on personalized meal planning and Pakistani food preferences.
+
+**Features:**
+
+- 🍱 Personalized Pakistani meal plans
+- 🧮 BMI calculator
+- 🔥 Calorie calculator
+- 🛒 Grocery management
+- 🍲 Healthy recipes
+- 🤖 AI nutrition assistant
+- 📊 Nutrition analytics
+- 🛠️ Admin dashboard
 
 ---
 
 ## 🎤 InterviewAI
-**AI-powered career readiness and interview coaching platform** featuring AI mock interviews, ATS resume analysis, voice interaction, growth analytics, and personalized interview feedback powered by Google Gemini.
+
+### AI-Powered Career & Interview Coach
+
+An intelligent career preparation platform designed to help users practice interviews and improve job readiness.
+
+**Features:**
+
+- 🎤 AI mock interviews
+- 📄 ATS resume analysis
+- 🗣️ Voice interaction
+- 📊 Performance analytics
+- 🎯 Personalized feedback
+- 🤖 Gemini-powered coaching
 
 ---
 
 ## 💪 FitNova AI
-**AI-powered fitness and wellness platform** featuring an intelligent fitness coach, workout tracking, habit management, health analytics, and interactive dashboards.
+
+### AI-Powered Fitness & Wellness Platform
+
+An intelligent wellness platform featuring:
+
+`AI Coach` • `Workout Tracking` • `Habit Management` • `Health Analytics` • `Interactive Dashboard`
 
 ---
 
 ## 💰 Finova AI
-**AI-powered personal finance and wealth management platform** with intelligent insights, budgeting tools, and interactive analytics.
+
+### AI-Powered Personal Finance Platform
+
+A modern finance application focused on:
+
+`Budgeting` • `Financial Insights` • `Expense Management` • `Interactive Analytics`
 
 ---
 
 ## 📚 StudyFlow AI
-**AI-powered study companion** featuring smart note summarization, AI tutoring, quiz generation, and productivity tools for students.
+
+### AI-Powered Study Companion
+
+An intelligent learning platform featuring:
+
+`AI Tutoring` • `Note Summarization` • `Quiz Generation` • `Study Tools` • `Productivity`
 
 ---
 
 ## 🎥 ReelFlow
-**Modern short-video social media platform** with video sharing, authentication, user profiles, and a mobile-first user experience.
+
+### Modern Short-Video Social Platform
+
+A mobile-first social media experience featuring:
+
+`Video Sharing` • `Authentication` • `User Profiles` • `Social Feed`
 
 ---
 
 ## 🤖 LifeHub AI
-**AI-powered productivity and personal assistant application** for task management and daily organization.
+
+### AI-Powered Productivity Assistant
+
+A personal productivity platform designed for:
+
+`Task Management` • `Daily Organization` • `AI Assistance` • `Productivity`
 
 ---
 
 ## 🛠️ Chrono VeloSec Utility Suite
-A **C++ productivity toolkit** featuring utilities for improving productivity and demonstrating modern C++ programming concepts.
+
+### C++ Productivity Toolkit
+
+A C++ utility suite demonstrating practical programming and problem-solving skills.
+
+**Features:**
+
+- ⌨️ Typing Speed Tester
+- 🔐 Password Strength Analyzer
+- ⏱️ Stopwatch
+- ⏲️ Timer
 
 ---
 
 ## 🎮 Arcana Console Game Suite
-A **collection of console-based games** developed in C++, showcasing object-oriented programming, game logic, and problem-solving skills.
+
+### C++ Console Game Collection
+
+A collection of console-based games demonstrating:
+
+- Object-Oriented Programming
+- Game Logic
+- Algorithms
+- Problem Solving
+- C++ Programming
 
 ---
 
-# 📜 Professional Certificates
+# 📜 Professional Certifications
 
 🏆 **17+ Professional Certificates**
 
-### Google AI Professional Certificate
+## 🤖 Google AI
 
+- Introduction to Artificial Intelligence
 - AI Fundamentals
-- AI for Brainstorming and Planning
-- AI for Research and Insights
-- AI for Writing and Communicating
+- AI for Brainstorming & Planning
+- AI for Research & Insights
+- AI for Writing & Communicating
 - AI for Content Creation
 - AI for Data Analysis
 - AI for App Building
 
-### Additional Certifications
+## 💻 Technology & Development
 
-- Introduction to Artificial Intelligence (AI)
 - AI Agent Fundamentals with Azure AI Foundry
 - Foundations of Cybersecurity
 - Crash Course on Python
 - Create Your First Python Program
+
+## 📈 Professional Development
+
 - Create a Google Ads Search Campaign
-- Use Canva to Design Digital Course Collateral
 - Preparation for Job Interviews
+- Use Canva to Design Digital Course Collateral
 - Build a Free Website with WordPress
 
 ---
@@ -156,9 +334,7 @@ A **collection of console-based games** developed in C++, showcasing object-orie
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alirashidcs-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirashidcs-hub&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=alirashidcs-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 </p>
 
@@ -168,7 +344,7 @@ A **collection of console-based games** developed in C++, showcasing object-orie
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=alirashidcs-hub&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alirashidcs-hub&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -178,48 +354,64 @@ A **collection of console-based games** developed in C++, showcasing object-orie
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=alirashidcs-hub&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=alirashidcs-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
 
 </p>
 
 ---
 
-# 🎯 Career Goal
+# 📈 Contribution Activity
 
-My goal is to become a skilled **Software Engineer** specializing in **Artificial Intelligence**, **Full-Stack Development**, and modern software engineering by building innovative products, contributing to open-source projects, and developing impactful AI-powered applications.
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alirashidcs-hub&theme=tokyo-night&hide_border=true" />
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- ☑️ Build AI-powered applications
+- ☑️ Explore Full-Stack Development
+- ☑️ Develop AI Agent systems
+- ☑️ Learn modern AI architectures
+- 🔄 Deploy AI Agent Hub
+- 🔄 Contribute to Open Source
+- 🔄 Publish technical research
+- 🔄 Gain professional industry experience
+- 🔄 Build production-scale applications
+
+---
+
+# 🚀 Career Goal
+
+My goal is to become a skilled **Software Engineer and AI Engineer**, specializing in:
+
+**Artificial Intelligence • AI Agents • Full-Stack Development • Software Architecture • Cloud Technologies**
+
+I aim to build innovative products, contribute to open-source projects, explore emerging technologies, and develop software that solves meaningful real-world problems.
 
 ---
 
 # 📫 Connect With Me
 
-📧 **Email**
-
+📧 **Email:**  
 **ar2701699@gmail.com**
 
-📱 **Phone**
-
-**+92 305 7357819**
-
-💼 **LinkedIn**
-
+💼 **LinkedIn:**  
 https://www.linkedin.com/in/ali-rashid-cs/
 
-💻 **GitHub**
-
+💻 **GitHub:**  
 https://github.com/alirashidcs-hub
 
-🌐 **Portfolio**
-
+🌐 **Portfolio:**  
 https://ali-rashid-portfolio.vercel.app/
 
 ---
 
-<div align="center">
+# ⭐ Thanks for Visiting!
 
-### ⭐ Thank you for visiting my GitHub profile!
+If you find my projects interesting, feel free to ⭐ star a repository and connect with me.
 
-*"Building intelligent software, one project at a time."*
-
-If you like my work, don't forget to ⭐ my repositories and connect with me!
-
-</div>
+### 🚀 Building intelligent software, one project at a time.
