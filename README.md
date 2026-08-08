@@ -253,17 +253,6 @@ I enjoy transforming ideas into practical software by combining **Artificial Int
 
 ---
 
-# 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=alirashidcs-hub&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
-    height="180"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
----
 
 # 📈 GitHub Contribution Activity
 
