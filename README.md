@@ -1,7 +1,13 @@
 # 👋 Hi, I'm Ali Rashid
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+Enthusiast;AI+Engineer;Full-Stack+Developer;AI+Agent+Developer;Software+Engineer;Computer+Science+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Enthusiast;AI+Engineer;Full-Stack+Developer;AI+Agent+Developer;Software+Engineer;Computer+Science+Student" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-00BFFF?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-2563EB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge&logo=probot&logoColor=white" />
 </p>
 
 <p align="center">
@@ -12,7 +18,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://ali-rashid-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -22,33 +28,33 @@
 
 🎓 **BS Computer Science Student — UET Taxila**
 
-🤖 Artificial Intelligence & AI Agents
+🤖 **Artificial Intelligence & AI Agents**
 
-🌐 Full-Stack Web Development
+🌐 **Full-Stack Web Development**
 
-🎨 3D Web Experiences
+🎨 **3D Web Experiences**
 
-⚙️ Software Engineering
+⚙️ **Software Engineering**
 
-🚀 Building modern and intelligent applications
+🚀 **Building modern and intelligent applications**
 
-I enjoy transforming ideas into practical software by combining **Artificial Intelligence, modern web technologies, and creative user experiences**.
+I enjoy transforming ideas into practical software by combining **Artificial Intelligence, modern web technologies, and creative user experiences.**
 
 ---
 
 # 🌱 Currently Learning
 
-- Artificial Intelligence
-- Machine Learning
-- AI Agents & Agentic AI
-- Large Language Models
-- MCP & Tool Calling
-- Data Structures & Algorithms
-- Backend Development
-- Cloud Technologies
-- Advanced React & Next.js
-- Database Architecture
-- Production AI Systems
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🔗 AI Agents & Agentic AI
+- 💬 Large Language Models
+- 🔌 MCP & Tool Calling
+- 🧩 Data Structures & Algorithms
+- ⚙️ Backend Architecture
+- ☁️ Cloud Technologies
+- ⚛️ Advanced React & Next.js
+- 🗄️ Database Architecture
+- 🚀 Production AI Systems
 
 ---
 
@@ -90,8 +96,8 @@ I enjoy transforming ideas into practical software by combining **Artificial Int
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangGraph-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge" />
 </p>
 
 ## 🎨 3D & Creative Technologies
@@ -137,7 +143,12 @@ I enjoy transforming ideas into practical software by combining **Artificial Int
 
 ### Full-Stack AI Agent Builder & Deployment Platform
 
-`AI Agents` `LLMs` `LangGraph` `MCP` `Next.js` `TypeScript` `PostgreSQL` `Redis`
+<p>
+<img src="https://img.shields.io/badge/AI%20Agents-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangGraph-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MCP-00BFFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
 
 **Status:** 🚧 Preparing for Deployment
 
@@ -146,11 +157,13 @@ I enjoy transforming ideas into practical software by combining **Artificial Int
 # 🎨 3D Projects
 
 ### 🏡 HomeVista 3D
+
 **AI + 3D Real Estate**
 
 `Three.js` `React` `Gemini AI`
 
 ### 👗 Aura Atelier
+
 **AI + 3D Virtual Fashion**
 
 `Three.js` `React` `Gemini AI`
@@ -175,9 +188,9 @@ I enjoy transforming ideas into practical software by combining **Artificial Int
 
 # 🌐 Full-Stack Projects
 
-**🎥 ReelFlow** — Short-Video Social Platform
-
 **🤖 AI Agent Hub** — AI Agent Development Platform
+
+**🎥 ReelFlow** — Short-Video Social Platform
 
 **🥗 NutriAI Pakistan** — Nutrition Management Platform
 
@@ -228,12 +241,14 @@ I enjoy transforming ideas into practical software by combining **Artificial Int
 
 ---
 
-# 📊 GitHub Activity
+# 📊 GitHub Statistics
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alirashidcs-hub&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=alirashidcs-hub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    height="180"
+    alt="GitHub Statistics"
+  />
 </p>
 
 ---
@@ -241,19 +256,35 @@ I enjoy transforming ideas into practical software by combining **Artificial Int
 # 🔥 GitHub Contribution Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.demolab.com?user=alirashidcs-hub&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+  <img
+    src="https://streak-stats.demolab.com?user=alirashidcs-hub&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    height="180"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
 
-# 📈 GitHub Contribution Calendar
+# 📈 GitHub Contribution Activity
 
 <p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=alirashidcs-hub&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Contribution Activity"
+  />
+</p>
 
-<img src="https://ghchart.rshah.org/alirashidcs-hub" alt="Ali Rashid GitHub Contribution Chart" />
+---
 
+# 🗓️ GitHub Contribution Calendar
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/alirashidcs-hub"
+    width="100%"
+    alt="GitHub Contribution Calendar"
+  />
 </p>
 
 ---
@@ -286,7 +317,7 @@ I aim to build innovative products, contribute to open-source projects, and deve
 <p align="center">
 
 <a href="mailto:ar2701699@gmail.com">
-<img src="https://img.shields.io/badge/Email-ar2701699%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-ar2701699%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/ali-rashid-cs/">
@@ -298,7 +329,7 @@ I aim to build innovative products, contribute to open-source projects, and deve
 </a>
 
 <a href="https://ali-rashid-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </p>
