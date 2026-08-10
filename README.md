@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Ali Rashid
 
+### AI & Full-Stack Developer | BS Computer Science Student at UET Taxila
+
+I build AI-powered applications, full-stack platforms, AI agents,
+and interactive 3D web experiences.
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Enthusiast;AI+Engineer;Full-Stack+Developer;AI+Agent+Developer;Software+Engineer;Computer+Science+Student" alt="Typing SVG" />
 </p>
