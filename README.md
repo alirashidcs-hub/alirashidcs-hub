@@ -131,6 +131,7 @@ I enjoy transforming ideas into practical software by combining **Artificial Int
 | 🤖 **Open Agent Studio** | AI Agents / Full-Stack | Next.js • TypeScript • PostgreSQL • Prisma • Redis • MCP |
 | 🏡 **HomeVista 3D**      | AI + 3D Real Estate    | React • Three.js • Gemini AI                             |
 | 👗 **Aura Atelier**      | AI + 3D Fashion        | React • Three.js • Gemini AI                             |
+| 🌍 **Earth Explorer**     | Interactive 3D Earth | Next.js • TypeScript • Three.js |
 | 🥗 **NutriAI Pakistan**  | AI Nutrition           | React • AI • JavaScript                                  |
 | 🎤 **InterviewAI**       | AI Career Platform     | React • Gemini AI                                        |
 | 💪 **FitNova AI**        | AI Fitness             | React • AI                                               |
@@ -191,6 +192,15 @@ Key capabilities include:
 
 `Three.js` `React` `Gemini AI`
 
+### 🌍 Earth Explorer
+
+**Interactive 3D Earth Experience**
+
+`Next.js` `TypeScript` `Three.js` `Tailwind CSS`
+
+🌐 **Live Demo:** https://earth-explorer-beta.vercel.app/
+
+An immersive 3D Earth experience where users can rotate the planet, explore countries and continents, switch between day and night, discover random locations, and learn fascinating facts about Earth.
 ---
 
 # 🧠 AI Projects
