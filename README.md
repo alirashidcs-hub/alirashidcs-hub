@@ -245,32 +245,47 @@ An immersive 3D Earth experience where users can rotate the planet, explore coun
 
 # 📜 Professional Certifications
 
-🏆 **17+ Professional Certificates**
+🏆 **23 Professional Certificates**
 
-### 🤖 Artificial Intelligence
+## 🤖 Artificial Intelligence
 
-* Introduction to Artificial Intelligence
-* AI Fundamentals
-* AI for Brainstorming & Planning
-* AI for Research & Insights
-* AI for Writing & Communicating
-* AI for Content Creation
-* AI for Data Analysis
-* AI for App Building
+- Google AI Professional Certificate
+- Introduction to Artificial Intelligence (AI)
+- AI Fundamentals
+- AI for Brainstorming and Planning
+- AI for Research and Insights
+- AI for Writing and Communicating
+- AI for Content Creation
+- AI for Data Analysis
+- AI for App Building
+- NVIDIA: Fundamentals of Machine Learning
+- NVIDIA: Fundamentals of Deep Learning
 
-### 💻 Technology
+## 💻 Technology & Cybersecurity
 
-* AI Agent Fundamentals with Azure AI Foundry
-* Foundations of Cybersecurity
-* Crash Course on Python
-* Create Your First Python Program
+- AI Agent Fundamentals with Azure AI Foundry
+- Foundations of Cybersecurity
+- Crash Course on Python
+- Create Your First Python Program
 
-### 📈 Professional Development
+## 📊 Marketing, E-Commerce & Design
 
-* Create a Google Ads Search Campaign
-* Preparation for Job Interviews
-* Use Canva to Design Digital Course Collateral
-* Build a Free Website with WordPress
+- Marketing Analytics Foundation — Meta
+- Create Your Google Ads Search Campaign
+- Create Your E-commerce Store with Shopify
+- Use Canva to Design Digital Course Collateral
+
+## 📋 Project & Career Development
+
+- Foundations of Project Management — Google
+- Project Execution: Running the Project — Google
+- Preparation for Job Interviews
+
+## 🌐 Web Development
+
+- Build a Free Website with WordPress
+
+---
 
 ---
 
