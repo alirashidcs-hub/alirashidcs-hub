@@ -126,21 +126,22 @@ I enjoy transforming ideas into practical software by combining **Artificial Int
 
 # 🌟 Featured Projects
 
-| 🚀 Project               | 🧩 Category            | 🛠️ Technologies                                         |
-| ------------------------ | ---------------------- | -------------------------------------------------------- |
-| 🤖 **Open Agent Studio** | AI Agents / Full-Stack | Next.js • TypeScript • PostgreSQL • Prisma • Redis • MCP |
-| 🏡 **HomeVista 3D**      | AI + 3D Real Estate    | React • Three.js • Gemini AI                             |
-| 👗 **Aura Atelier**      | AI + 3D Fashion        | React • Three.js • Gemini AI                             |
-| 🌍 **Earth Explorer**     | Interactive 3D Earth | Next.js • TypeScript • Three.js |
-| 🥗 **NutriAI Pakistan**  | AI Nutrition           | React • AI • JavaScript                                  |
-| 🎤 **InterviewAI**       | AI Career Platform     | React • Gemini AI                                        |
-| 💪 **FitNova AI**        | AI Fitness             | React • AI                                               |
-| 💰 **Finova AI**         | AI Finance             | React • AI                                               |
-| 📚 **StudyFlow AI**      | AI Education           | React • AI                                               |
-| 🎥 **ReelFlow**          | Social Media           | React • Firebase                                         |
-| 🤖 **LifeHub AI**        | AI Productivity        | React • AI                                               |
-| 🛠️ **Chrono VeloSec**   | C++ Utility Suite      | C++ • OOP                                                |
-| 🎮 **Arcana Game Suite** | C++ Games              | C++ • OOP • Game Logic                                   |
+| 🚀 Project               | 🧩 Category                    | 🛠️ Technologies                                         |
+| ------------------------ | ------------------------------ | -------------------------------------------------------- |
+| 🤖 **Open Agent Studio** | AI Agents / Full-Stack         | Next.js • TypeScript • PostgreSQL • Prisma • Redis • MCP |
+| 🏡 **HomeVista 3D**      | AI + 3D Real Estate            | React • Three.js • Gemini AI                             |
+| 👗 **Aura Atelier**      | AI + 3D Fashion                | React • Three.js • Gemini AI                             |
+| 🌍 **Earth Explorer**    | Interactive 3D Earth           | Next.js • TypeScript • Three.js                          |
+| 🍔 **FoodVerse 3D**      | Interactive 3D Food            | Next.js • React • Three.js • R3F • Tailwind CSS          |
+| 🥗 **NutriAI Pakistan**  | AI Nutrition                   | React • AI • JavaScript                                  |
+| 🎤 **InterviewAI**       | AI Career Platform             | React • Gemini AI                                        |
+| 💪 **FitNova AI**        | AI Fitness                     | React • AI                                               |
+| 💰 **Finova AI**         | AI Finance                     | React • AI                                               |
+| 📚 **StudyFlow AI**      | AI Education                   | React • AI                                               |
+| 🎥 **ReelFlow**          | Social Media                   | React • Firebase                                         |
+| 🤖 **LifeHub AI**        | AI Productivity               | React • AI                                               |
+| 🛠️ **Chrono VeloSec**   | C++ Utility Suite             | C++ • OOP                                                |
+| 🎮 **Arcana Game Suite** | C++ Games                      | C++ • OOP • Game Logic                                   |
 
 ---
 
@@ -201,6 +202,33 @@ Key capabilities include:
 🌐 **Live Demo:** https://earth-explorer-beta.vercel.app/
 
 An immersive 3D Earth experience where users can rotate the planet, explore countries and continents, switch between day and night, discover random locations, and learn fascinating facts about Earth.
+
+### 🍔 FoodVerse 3D
+
+**Luxury Interactive 3D Food Experience**
+
+`Next.js` `TypeScript` `React Three Fiber` `Three.js` `Tailwind CSS` `Framer Motion`
+
+🌐 **Live Demo:** https://foodverse-3d.vercel.app/
+
+FoodVerse 3D is an immersive digital culinary gallery that combines **high-quality food photography, interactive 3D visualization, cinematic motion, and futuristic restaurant-inspired design**.
+
+Key features include:
+
+* 🍔 Interactive food visualization
+* 🥘 16 curated food experiences
+* 🎮 360° 3D model interaction when genuine GLB assets are available
+* 🔍 Rotate, zoom, reset, and fullscreen controls
+* 💡 Multiple 3D lighting modes
+* 🎬 Cinematic scroll-based interactions
+* 🖼️ HD food photography fallback
+* 📱 Responsive desktop and mobile experience
+* 🗂️ Food categories and individual detail pages
+* ⚡ Next.js App Router architecture
+* 🔎 SEO-friendly sitemap and robots configuration
+
+The project uses a **photography-first approach** rather than displaying low-quality fake 3D models. Real `model.glb` assets can be added to each food's folder and are automatically detected by the application.
+
 ---
 
 # 🧠 AI Projects
@@ -284,8 +312,6 @@ An immersive 3D Earth experience where users can rotate the planet, explore coun
 ## 🌐 Web Development
 
 - Build a Free Website with WordPress
-
----
 
 ---
 
