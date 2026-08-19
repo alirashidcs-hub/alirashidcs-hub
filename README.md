@@ -126,22 +126,23 @@ I enjoy transforming ideas into practical software by combining **Artificial Int
 
 # 🌟 Featured Projects
 
-| 🚀 Project               | 🧩 Category                    | 🛠️ Technologies                                         |
-| ------------------------ | ------------------------------ | -------------------------------------------------------- |
-| 🤖 **Open Agent Studio** | AI Agents / Full-Stack         | Next.js • TypeScript • PostgreSQL • Prisma • Redis • MCP |
-| 🏡 **HomeVista 3D**      | AI + 3D Real Estate            | React • Three.js • Gemini AI                             |
-| 👗 **Aura Atelier**      | AI + 3D Fashion                | React • Three.js • Gemini AI                             |
-| 🌍 **Earth Explorer**    | Interactive 3D Earth           | Next.js • TypeScript • Three.js                          |
-| 🍔 **FoodVerse 3D**      | Interactive 3D Food            | Next.js • React • Three.js • R3F • Tailwind CSS          |
-| 🥗 **NutriAI Pakistan**  | AI Nutrition                   | React • AI • JavaScript                                  |
-| 🎤 **InterviewAI**       | AI Career Platform             | React • Gemini AI                                        |
-| 💪 **FitNova AI**        | AI Fitness                     | React • AI                                               |
-| 💰 **Finova AI**         | AI Finance                     | React • AI                                               |
-| 📚 **StudyFlow AI**      | AI Education                   | React • AI                                               |
-| 🎥 **ReelFlow**          | Social Media                   | React • Firebase                                         |
-| 🤖 **LifeHub AI**        | AI Productivity               | React • AI                                               |
-| 🛠️ **Chrono VeloSec**   | C++ Utility Suite             | C++ • OOP                                                |
-| 🎮 **Arcana Game Suite** | C++ Games                      | C++ • OOP • Game Logic                                   |
+| 🚀 Project               | 🧩 Category                         | 🛠️ Technologies                                                    |
+| ------------------------ | ---------------------------------- | ------------------------------------------------------------------ |
+| 🤖 **Open Agent Studio** | AI Agents / Full-Stack             | Next.js • TypeScript • PostgreSQL • Prisma • Redis • MCP          |
+| 🌆 **CityVerse**         | AI + 3D Smart City / Digital Twin  | React • TypeScript • Three.js • Vite • Tailwind • Claude AI       |
+| 🏡 **HomeVista 3D**      | AI + 3D Real Estate                | React • Three.js • Gemini AI                                     |
+| 👗 **Aura Atelier**      | AI + 3D Fashion                    | React • Three.js • Gemini AI                                     |
+| 🌍 **Earth Explorer**    | Interactive 3D Earth               | Next.js • TypeScript • Three.js                                  |
+| 🍔 **FoodVerse 3D**      | Interactive 3D Food                | Next.js • React • Three.js • R3F • Tailwind CSS                   |
+| 🥗 **NutriAI Pakistan**  | AI Nutrition                       | React • AI • JavaScript                                          |
+| 🎤 **InterviewAI**       | AI Career Platform                 | React • Gemini AI                                                |
+| 💪 **FitNova AI**        | AI Fitness                         | React • AI                                                       |
+| 💰 **Finova AI**         | AI Finance                         | React • AI                                                       |
+| 📚 **StudyFlow AI**      | AI Education                       | React • AI                                                       |
+| 🎥 **ReelFlow**          | Social Media                       | React • Firebase                                                 |
+| 🤖 **LifeHub AI**        | AI Productivity                    | React • AI                                                       |
+| 🛠️ **Chrono VeloSec**   | C++ Utility Suite                 | C++ • OOP                                                        |
+| 🎮 **Arcana Game Suite** | C++ Games                          | C++ • OOP • Game Logic                                           |
 
 ---
 
@@ -179,7 +180,34 @@ Key capabilities include:
 
 ---
 
+🌆 CityVerse
+AI-Powered 3D Smart City Digital Twin
+<p> <img src="https://img.shields.io/badge/3D%20Digital%20Twin-00BFFF?style=for-the-badge" /> <img src="https://img.shields.io/badge/AI%20Assistant-7C3AED?style=for-the-badge" /> <img src="https://img.shields.io/badge/Smart%20City-0EA5E9?style=for-the-badge" /> <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </p>
+
+Status: 🚀 Live / Active Development
+
+Live Demo:
+
+https://cityverse-3d-smart-city.vercel.app/
+
+CityVerse is an interactive AI-powered 3D Smart City Digital Twin that combines immersive 3D visualization, artificial intelligence, real-time simulation concepts, and urban analytics.
+
+---
+
+
+---
+
 # 🎨 3D Projects
+
+### 🌆 CityVerse
+
+**AI-Powered 3D Smart City Digital Twin**
+
+`React` `TypeScript` `Three.js` `Vite` `Tailwind CSS` `Claude AI`
+
+🌐 **Live Demo:** https://cityverse-3d-smart-city.vercel.app/
+
+An interactive 3D smart-city platform featuring procedural city generation, traffic simulation, weather and time systems, emergency scenarios, road closures, construction simulations, analytics, and an AI City Assistant.
 
 ### 🏡 HomeVista 3D
 
@@ -217,6 +245,8 @@ FoodVerse 3D is an immersive digital culinary gallery that combines **high-quali
 
 # 🧠 AI Projects
 
+**🌆 CityVerse** — AI-Powered 3D Smart City Digital Twin
+
 **🥗 NutriAI Pakistan** — AI Nutrition Platform
 
 **🎤 InterviewAI** — AI Career & Interview Platform
@@ -234,6 +264,8 @@ FoodVerse 3D is an immersive digital culinary gallery that combines **high-quali
 # 🌐 Full-Stack Projects
 
 **🤖 Open Agent Studio** — AI Agent Development & Deployment Platform
+
+**🌆 CityVerse** — AI Smart City & Digital Twin Platform
 
 **🎥 ReelFlow** — Short-Video Social Platform
 
