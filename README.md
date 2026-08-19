@@ -213,22 +213,6 @@ An immersive 3D Earth experience where users can rotate the planet, explore coun
 
 FoodVerse 3D is an immersive digital culinary gallery that combines **high-quality food photography, interactive 3D visualization, cinematic motion, and futuristic restaurant-inspired design**.
 
-Key features include:
-
-* 🍔 Interactive food visualization
-* 🥘 16 curated food experiences
-* 🎮 360° 3D model interaction when genuine GLB assets are available
-* 🔍 Rotate, zoom, reset, and fullscreen controls
-* 💡 Multiple 3D lighting modes
-* 🎬 Cinematic scroll-based interactions
-* 🖼️ HD food photography fallback
-* 📱 Responsive desktop and mobile experience
-* 🗂️ Food categories and individual detail pages
-* ⚡ Next.js App Router architecture
-* 🔎 SEO-friendly sitemap and robots configuration
-
-The project uses a **photography-first approach** rather than displaying low-quality fake 3D models. Real `model.glb` assets can be added to each food's folder and are automatically detected by the application.
-
 ---
 
 # 🧠 AI Projects
